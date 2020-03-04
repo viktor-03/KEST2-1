@@ -5,7 +5,7 @@
 #### What options are available in the Driver tab?
 > Driver Details, Update Driver, Roll Back Driver, Disable Device, Uninstall Device.
 #### After finalizing the Windows installation, what else can you do to improve your experience? 
-> Turn the computer off and go outside. (you never said to improve experience with windows and well by going outside you experience alot.)
+> you can improve the keyboard and mutch more.
 
 ### Lab 3.1.2.5
 #### What key or combination of keys is used to run Setup on your computer? 

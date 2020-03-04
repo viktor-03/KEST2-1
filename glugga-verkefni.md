@@ -56,4 +56,31 @@
 > Probably because NTFS is newer and its easyer to secure files there.
 
 ### Lab 11.1.2.10
-#### 
+#### List some of the icons that are on the Desktop. 
+> Recycle bin is the only default one, but i have some folders containing games and schoolwork on my pc.
+#### What type of information is available on the Desktop and Taskbar?
+> Time, keyboard language, date, internet status, whether the computer is muted not and whether windows is activated.
+#### Name a few applications listed in the Start Menu.
+> Settings, File explorer, Camera, Calculator.
+#### What are some of the available options? 
+> Pin to start, More, Uninstall.
+#### What are the available options in the Taskbar settings? 
+> Lock the taskbar, Automatically hide the taskbar in desktop mode, Taskbar location on screen, Use small taskbar buttons.
+#### What are the available options in the Task View settings? 
+> Cascade windows, Show windows stacked, Show windows side by side, Show the desktop.
+#### What happened? 
+> It is open on both desktops.
+#### List some examples of system information below. 
+> Time, keyboard language, date, internet status, whether the computer is muted.
+#### What are the behavior options for the icons? 
+> This is only in windows 7 or 8.x.
+#### Click Turn system icons on or off. List the system icons that can be enabled. 
+> Clock, Volume, Network, Power, Input indicator, Location, Action centre, Touch keyboard, Windows Ink Workspace, Touchpad, Microphone.
+#### What can you do in the Notification & actions Settings window? 
+> Control notifications and what you can do in the notification area.
+
+### Lab 11.1.3.4
+#### What happened? 
+> It closed.
+#### What options are available? 
+>
